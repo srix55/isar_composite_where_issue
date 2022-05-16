@@ -1,0 +1,16 @@
+# We occasionally want to use --tags or --exclude-tags on these tags.
+tags:
+  # Unit tests
+  unit:
+
+  # Integration tests
+  integration:
+
+  # Widget unit tests: these are widget tests that test logic and not the ui
+  widget_unit:
+
+  # Golden tests
+  golden:
+
+  # Acceptance
+  acceptance:
