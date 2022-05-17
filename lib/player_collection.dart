@@ -20,7 +20,7 @@ class PlayerCollection {
   String city;
 
   PlayerCollection(
-      {required this.isarId,
+      {this.isarId,
       required this.playerId,
       required this.playerName,
       required this.city});
